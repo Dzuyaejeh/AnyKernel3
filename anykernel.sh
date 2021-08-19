@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Rendang Kernel By @Juyyyaa
+kernel.string="History運命"
 do.devicecheck=1
 do.modules=0
 do.systemless=1
@@ -12,7 +12,7 @@ do.cleanup=1
 do.cleanuponabort=0
 device.name1=RMX2030
 device.name2=RMX1911
-device.name3=
+device.name3=r5x
 device.name4=
 device.name5=
 supported.versions=10.0-11.0
