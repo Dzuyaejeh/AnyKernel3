@@ -15,7 +15,7 @@ device.name2=RMX1911
 device.name3=r5x
 device.name4=
 device.name5=
-supported.versions=10.0-11.0
+supported.versions=10.0-13.0
 supported.patchlevels=
 '; } # end properties
 
